@@ -30,7 +30,7 @@ int main()
 
 	auto output = enumerate(phonevector);
 	
-	for (auto it = output.begin(); it != output.end(); ++i)
+	for (auto it = output.begin(); it != output.end(); ++it)
 		std::cout << *it << ' ';
 	cout << "\n";
 
