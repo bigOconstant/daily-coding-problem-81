@@ -8,7 +8,7 @@
 #include <map>
 #include <string>
 using namespace std;
-int minimum_to_remove(std::string);
+
 std::vector<std::string> enumerate(std::vector<std::string>);
 
 int main()
